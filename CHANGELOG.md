@@ -2,6 +2,8 @@
 ================
 * [#694](https://github.com/oshi/oshi/pull/694): ComputerIdentifier Util Method - [@Aashishthakur10](https://github.com/Aashishthakur10).
 * [#699](https://github.com/oshi/oshi/pull/699): Fix PerfData error handling - [@dbwiddis](https://github.com/dbwiddis).
+* [#700](https://github.com/oshi/oshi/pull/701): Refined control logic in Solaris/FreeBsd Soundcard - [@yCisco]
+(https://github.com/yCisco).
 * Your contribution here.
 
 3.11.0 (11/21/18)
